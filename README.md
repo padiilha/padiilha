@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate developer and tech enthusiast who loves to build amazing things. Feel free to explore my repositories and check out my work.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [@laboratoriobridge](https://github.com/laboratoriobridge).
+- 🔭 I’m currently working at [laboratoriobridge](https://github.com/laboratoriobridge).
 - 🏡 I'm currently living in Florianópolis, Brazil
 - 🌱 I’m learning more about Design Patterns and DevOps.
 - 📫 How to reach me: padilhacaua@gmail.com.
