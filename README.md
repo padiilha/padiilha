@@ -3,32 +3,25 @@
 Welcome to my GitHub profile! I’m a passionate developer and tech enthusiast who loves to build amazing things. Feel free to explore my repositories and check out my work.
 
 ## 🚀 About Me
-- 🔭 I’m currently working at [Yuzer](https://www.linkedin.com/company/yuzeroficial).
 - 🏡 I'm currently living in Florianópolis, Brazil
-- 🌱 I’m learning more about Design Patterns and DevOps.
+- 🌱 I’m learning more about Design Patterns, DevOps, Telemetry Systems and Data Analysis.
 - 📫 How to reach me: padilhacaua@gmail.com.
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I work with:
 
-- Languages: `JavaScript`, `Python`, `Java` etc.
-- Frontend: `React`, `HTML`, `CSS` etc.
-- Backend: `Node.js` etc.
+- Languages & Frameworks: `JavaScript`, `Python`, `Java`, `Spring`, `Express`, `React` etc.
 - Databases: `Oracle`, `MongoDB`, `PostgreSQL` etc.
-- Tools: `Git`, `VS Code`, `Docker`, `Postman`, `IntelliJ IDEA` etc.
-- Frameworks: `Spring`, `Express` etc.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=padiilha&show_icons=true&hide_title=true&count_private=true&hide=prs)
+- Tools: `Git`, `Docker`, `Postman`, `Kafka`, `Grafana`, `Prometheus` etc.
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/cauapadilha/)
 
-## 🎯 Projects
-Here are a few projects that I’ve worked on:
+## 🎯 Public Projects
+Here are a few public projects that I’ve worked on:
 
-- [Open Foods](https://github.com/padiilha/open-foods) - A class project developed using Python for the System Analysis and Design course, at UFSC.
+- [MLP Neural Network](https://github.com/padiilha/mlp_neural_network) - A class project developed using Python for the Machine Learning course, at UFSC.
+- [2FA Symmetric Encryption](https://github.com/padiilha/2fa-symmetric-encryption) - Class project developed for the Networks and Infomation Security course, at UFSC.
 - [Registration System](https://github.com/padiilha/registration-system) - Class project developed using JS for the Web Development course, at UFSC.
 - [Battleship](https://github.com/padiilha/battleship-game) - Class project developed using Python for the Object-oriented System Development course, at UFSC.
 
